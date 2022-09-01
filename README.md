@@ -15,4 +15,5 @@ This repository uses the [MIT LICENSE](https://opensource.org/licenses/MIT). All
 Author: me
 
 Logger made by [ecriminal](https://github.com/ecriminal)
+
 Theme inspired by [Endermatch](https://github.com/Endermatch)
