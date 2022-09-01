@@ -8,6 +8,7 @@ if Utils.is_admin:
 else:
     ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
 
+# Theme inspired by: https://github.com/Endermanch
 print("""\n
 # Roblox Client Fixer
 #
